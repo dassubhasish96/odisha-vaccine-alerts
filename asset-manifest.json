@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/odisha-vaccine-alerts/static/css/main.85c834a7.chunk.css",
+    "main.js": "/odisha-vaccine-alerts/static/js/main.6ba7c05a.chunk.js",
+    "main.js.map": "/odisha-vaccine-alerts/static/js/main.6ba7c05a.chunk.js.map",
+    "runtime-main.js": "/odisha-vaccine-alerts/static/js/runtime-main.57de0c83.js",
+    "runtime-main.js.map": "/odisha-vaccine-alerts/static/js/runtime-main.57de0c83.js.map",
+    "static/js/2.e7b623af.chunk.js": "/odisha-vaccine-alerts/static/js/2.e7b623af.chunk.js",
+    "static/js/2.e7b623af.chunk.js.map": "/odisha-vaccine-alerts/static/js/2.e7b623af.chunk.js.map",
+    "static/js/3.3a3f7c9e.chunk.js": "/odisha-vaccine-alerts/static/js/3.3a3f7c9e.chunk.js",
+    "static/js/3.3a3f7c9e.chunk.js.map": "/odisha-vaccine-alerts/static/js/3.3a3f7c9e.chunk.js.map",
+    "index.html": "/odisha-vaccine-alerts/index.html",
+    "static/css/main.85c834a7.chunk.css.map": "/odisha-vaccine-alerts/static/css/main.85c834a7.chunk.css.map",
+    "static/js/2.e7b623af.chunk.js.LICENSE.txt": "/odisha-vaccine-alerts/static/js/2.e7b623af.chunk.js.LICENSE.txt",
+    "static/media/vaccine.f5426b04.jpg": "/odisha-vaccine-alerts/static/media/vaccine.f5426b04.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57de0c83.js",
+    "static/js/2.e7b623af.chunk.js",
+    "static/css/main.85c834a7.chunk.css",
+    "static/js/main.6ba7c05a.chunk.js"
+  ]
+}
