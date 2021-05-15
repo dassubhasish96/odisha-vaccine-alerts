@@ -42,6 +42,8 @@
 }
 
 .container{
-  width: 90%;
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
   max-width: 650px;
 }
