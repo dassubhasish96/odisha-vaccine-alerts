@@ -1,4 +1,6 @@
 import React, { Fragment } from 'react';
+import { Form, FormGroup, Button } from 'reactstrap';
+
 
 function HowToUse(props) {
     return (
@@ -13,9 +15,12 @@ function HowToUse(props) {
             There are some bots running in the background which checks slots availability of district through public cowin apis continuosly and sends
              notification in the channel.
              <h4><i>Any Query ?</i></h4>
-            For any queries or discussion related to these channels, please join below telegram group.<br/> <a href = "https://telegram.me/odisha_vaccine_alerts">https://telegram.me/odisha_vaccine_alerts</a><br/>
-
-           
+            For any queries or discussion related to these channels, please join below telegram group.<br/><br/>
+            <Form>
+                  <FormGroup action>
+                  <Button href = "https://telegram.me/odisha_vaccine_alerts" color="success" size="lg" block>Queries & Discussion group</Button>
+                   </FormGroup>
+           </Form>           
         </Fragment>
     );
 }
