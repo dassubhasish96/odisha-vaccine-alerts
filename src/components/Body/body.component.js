@@ -36,6 +36,18 @@ function Body(props) {
                    <FormGroup>
                    <Button href = "https://telegram.me/balasore_vaccine_alerts_45" color="primary" size="lg" block>Balasore (Age 45+)</Button>
                    </FormGroup>
+                   <FormGroup>
+                   <Button href = "https://telegram.me/angul_vaccine_alert" color="primary" size="lg" block>Angul (All Age)</Button>
+                   </FormGroup>
+                   <FormGroup>
+                   <Button href = "https://telegram.me/jajpur_vaccine_alerts" color="primary" size="lg" block>Jajpur (All Age)</Button>
+                   </FormGroup>
+                   <FormGroup>
+                   <Button href = "https://telegram.me/puri_vaccine_alerts" color="primary" size="lg" block>Puri (All Age)</Button>
+                   </FormGroup>
+                   <FormGroup>
+                   <Button href = "https://telegram.me/bargarh_vaccine_alerts" color="primary" size="lg" block>Bargarh (All Age)</Button>
+                   </FormGroup>
            </Form>
         </Fragment>
     );
