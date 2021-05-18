@@ -18,7 +18,7 @@ function HowToUse(props) {
             For any queries or discussion related to these channels, please join below telegram group.<br/><br/>
             <Form>
                   <FormGroup action>
-                  <Button href = "https://telegram.me/odisha_vaccine_alerts" color="success" size="lg" block>Queries & Discussion group</Button>
+                  <Button href = "https://telegram.me/odisha_vaccine_alerts" color="success" size="lg" block>Queries & Discussion telegram group</Button>
                    </FormGroup>
            </Form>           
         </Fragment>
