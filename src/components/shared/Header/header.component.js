@@ -9,8 +9,8 @@ function Header(props) {
     return (
         <Fragment>
              <img class = "image" src= {banner} alt="vaccine banner" ></img>
-           <h3>District wise telegram channels in Odisha</h3>
-           <p>Following are vaccine slots alert telegram channels for the districts of Odisha.
+           <h4>District wise telegram channels in Odisha</h4>
+           <p>Following are vaccine slots alert telegram channels for districts of Odisha.
            </p>
         </Fragment>
     );
