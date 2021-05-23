@@ -13,14 +13,15 @@ function Body(props) {
                    <Button href = "https://telegram.me/cuttack_vaccine_alerts" color="primary" size="lg" block>Cuttack</Button>
                    </FormGroup>
 
+                   <FormGroup>
+                   <Button href = "https://telegram.me/sambalpur_vaccine_alerts" color="primary" size="lg" block>Sambalpur</Button>
+                   </FormGroup>
  
                    <FormGroup>
                    <Button href = "https://telegram.me/sundargarh_vaccine_alerts" color="primary" size="lg" block>Sundargarh</Button>
                    </FormGroup>
                   
-                   <FormGroup>
-                   <Button href = "https://telegram.me/sambalpur_vaccine_alerts" color="primary" size="lg" block>Sambalpur</Button>
-                   </FormGroup>
+ 
  
                    <FormGroup>
                    <Button href = "https://telegram.me/balasore_vaccine_alerts" color="primary" size="lg" block>Balasore</Button>
@@ -49,6 +50,21 @@ function Body(props) {
                    </FormGroup>
                    <FormGroup>
                    <Button href = "https://telegram.me/jagatsinghpur_vaccine_alerts" color="primary" size="lg" block>Jagatsinghpur</Button>
+                   </FormGroup>
+                   <FormGroup>
+                   <Button href = "https://telegram.me/mayurbhanj_vaccine_alerts" color="primary" size="lg" block>Mayurbhanj</Button>
+                   </FormGroup>
+                   <FormGroup>
+                   <Button href = "https://telegram.me/bhadrak_vaccine_alerts" color="primary" size="lg" block>Bhadrak</Button>
+                   </FormGroup>
+                   <FormGroup>
+                   <Button href = "https://telegram.me/balangir_vaccine_alerts" color="primary" size="lg" block>Balangir</Button>
+                   </FormGroup>
+                   <FormGroup>
+                   <Button href = "https://telegram.me/kalahandi_vaccine_alerts" color="primary" size="lg" block>Kalahandi</Button>
+                   </FormGroup>
+                   <FormGroup>
+                   <Button href = "https://telegram.me/nayagarh_vaccine_alerts" color="primary" size="lg" block>Nayagarh</Button>
                    </FormGroup>
            </Form>
         </Fragment>
