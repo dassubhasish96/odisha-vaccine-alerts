@@ -18,7 +18,7 @@ function HowToUse(props) {
             To get update on vaccine slots booking time and for related discussion, please join below telegram group.<br/><br/>
             <Form>
                   <FormGroup action>
-                  <Button href = "https://telegram.me/odisha_vaccine_alerts" color="success" size="lg" block>Queries & Discussion telegram group</Button>
+                  <Button href = "https://telegram.me/odisha_vaccine_alerts" color="success" size="lg" block>Odisha Vaccine Alert Discussion telegram group</Button>
                    </FormGroup>
            </Form>           
         </Fragment>
