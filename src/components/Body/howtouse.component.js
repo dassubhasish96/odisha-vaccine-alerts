@@ -14,11 +14,11 @@ function HowToUse(props) {
              <h4><i>How is these telegram channels working ?</i></h4>
             There are some bots running in the background which checks slots availability of district through public cowin apis continuosly and sends
              notification in the channel.
-             <h4><i>Vaccine slots booking time and discussion ?</i></h4>
-            To get update on vaccine slots booking time and for related discussion, please join below telegram group.<br/><br/>
+             <h4><i>Queries and info related to Vaccine availability ?</i></h4>
+            For any queries and info related to vaccine availability, please join below telegram group.<br/><br/>
             <Form>
                   <FormGroup action>
-                  <Button href = "https://telegram.me/odisha_vaccine_alerts" color="success" size="lg" block>Odisha Vaccine Alert Discussion telegram group</Button>
+                  <Button href = "https://telegram.me/odisha_vaccine_alerts" color="success" size="lg" block>Odisha Vaccine Alert Discussion group</Button>
                    </FormGroup>
            </Form>           
         </Fragment>
