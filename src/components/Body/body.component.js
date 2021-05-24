@@ -6,7 +6,7 @@ function Body(props) {
         <Fragment>
            <Form>
                   <FormGroup action>
-                  <Button href = "https://telegram.me/khurda_vaccine_alerts" color="primary" size="lg" block>Khorda</Button>
+                  <Button href = "https://telegram.me/khurda_vaccine_alerts" color="primary" size="lg" block>Khordha</Button>
                    </FormGroup>
     
                    <FormGroup>
