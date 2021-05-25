@@ -10,7 +10,8 @@ function Header(props) {
         <Fragment>
              <img class = "image" src= {banner} alt="vaccine banner" ></img>
            <h3>District wise telegram channels in Odisha</h3>
-           <p>Following are vaccine slots alert telegram channels for districts of Odisha.
+           <p>Following are vaccine slots alert telegram channels for districts of Odisha. Currently 900+ users are using 
+               this service.
            </p>
         </Fragment>
     );
