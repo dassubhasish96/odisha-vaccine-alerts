@@ -11,7 +11,7 @@ function Header(props) {
              <img class = "image" src= {banner} alt="vaccine banner" ></img>
            <h3>District wise telegram channels in Odisha</h3>
            <p>Following are vaccine slots alert telegram channels for districts of Odisha. Click on the district and join the channel to get 
-               alerts. Currently 1000+ users are using 
+               alerts. Currently 1200+ users are using 
                this alert service.
            </p>
         </Fragment>
