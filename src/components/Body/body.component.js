@@ -78,6 +78,9 @@ function Body(props) {
                    <FormGroup>
                    <Button href = "https://telegram.me/koraput_vaccine_alert" color="primary" size="lg" block>Koraput</Button>
                    </FormGroup>
+                   <FormGroup>
+                   <Button href = "https://telegram.me/kendujhar_vaccine_alerts" color="primary" size="lg" block>Kendujhar</Button>
+                   </FormGroup>
            </Form>
         </Fragment>
     );
